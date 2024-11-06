@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\jhon_andrade_back.props" />
+</Project>
