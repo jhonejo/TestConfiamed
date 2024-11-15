@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj": {}
+    "C:\\repos\\jhon_andrade_back\\ItemsMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj": {
+    "C:\\repos\\jhon_andrade_back\\ItemsMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj",
-        "projectName": "jhon_andrade_back",
-        "projectPath": "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj",
+        "projectUniqueName": "C:\\repos\\jhon_andrade_back\\ItemsMicroservice.csproj",
+        "projectName": "ItemsMicroservice",
+        "projectPath": "C:\\repos\\jhon_andrade_back\\ItemsMicroservice.csproj",
         "packagesPath": "C:\\Users\\PORT119-LG\\.nuget\\packages\\",
         "outputPath": "C:\\repos\\jhon_andrade_back\\obj\\",
         "projectStyle": "PackageReference",

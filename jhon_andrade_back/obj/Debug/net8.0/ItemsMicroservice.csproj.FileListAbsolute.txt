@@ -1,0 +1,7 @@
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.csproj.AssemblyReference.cache
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.AssemblyInfoInputs.cache
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.AssemblyInfo.cs
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.csproj.CoreCompileInputs.cache
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\jhon_andrade_back\obj\Debug\net8.0\ItemsMicroservice.MvcApplicationPartsAssemblyInfo.cache

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj": {}
+    "C:\\repos\\jhon_andrade_back\\ItemsService.csproj": {}
   },
   "projects": {
-    "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj": {
+    "C:\\repos\\jhon_andrade_back\\ItemsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj",
-        "projectName": "jhon_andrade_back",
-        "projectPath": "C:\\repos\\jhon_andrade_back\\jhon_andrade_back.csproj",
+        "projectUniqueName": "C:\\repos\\jhon_andrade_back\\ItemsService.csproj",
+        "projectName": "ItemsService",
+        "projectPath": "C:\\repos\\jhon_andrade_back\\ItemsService.csproj",
         "packagesPath": "C:\\Users\\PORT119-LG\\.nuget\\packages\\",
         "outputPath": "C:\\repos\\jhon_andrade_back\\obj\\",
         "projectStyle": "PackageReference",
